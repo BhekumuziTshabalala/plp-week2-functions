@@ -1,6 +1,6 @@
+# Dart Functions Assignment
+
 ## In this assignment, you will be tasked with writing several functions in Dart.
-
-
 
 # Task 1
 Write a function called addTwo that takes two numbers as arguments and returns the sum of those two numbers.
