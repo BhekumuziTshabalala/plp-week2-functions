@@ -24,4 +24,4 @@ Write a function called getFirstElement that takes a list as an argument and ret
 
 Please submit your assignment by pushing your code to GitHub and sharing the link to
 
-https://forms.gle/Cz9V6W7pgcciuSY7A"
+https://forms.gle/Cz9V6W7pgcciuSY7A
